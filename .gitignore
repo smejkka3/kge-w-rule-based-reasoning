@@ -9,3 +9,4 @@ data/train_data/*
 *.txt
 *.del
 *.pckl
+*.pyc
