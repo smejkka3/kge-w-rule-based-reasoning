@@ -1,0 +1,11 @@
+/kge
+/tests
+simpful_test.py
+test_plotting.py
+main_test.py
+*.ipynb
+*.nt
+data/train_data/*
+*.txt
+*.del
+*.pckl
